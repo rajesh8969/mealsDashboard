@@ -1,0 +1,276 @@
+{
+  "userFunctionList": {
+    "userFunctions": [
+      {
+        "userFunction": {
+          "name": "uw_privacy_voorkeuren",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "overboeken_zonder_edentifier",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "geregistreerde_toestellen",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "incassoinstellingen_raadplegen",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "overboeking_opgeven",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "bestand_importeren",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "bestand_importeren_overzicht",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "bestand_importeren_europa",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "bestand_importeren_europa_overzicht",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "buitenland_overboeking_opgeven",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "verpakt_storten",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "bij_en_afschrijvingen_raadplegen",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "overzicht_periodieke_overboekingen_raadplegen",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "adresboek_beheren",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "profiel_buitenland_betalen",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "kaart_blokkeren",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "profiel_buitenland_betalen_webform",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "bevoegdheden_beheren",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "bevoegdheden_identificatiecode_beheren",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "wijzigingen_bevoegdheden_verzenden",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "downloaden_afschriften",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "downloaden_fino",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "downloaden_mutaties",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "creditcard_online_zakelijk",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "betaalalerts",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "zichtbare_rekeningen_beheren",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "service_pagina",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "identificatiecode_aanvragen",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "identificatiecode_deblokkeren",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "identificatiecode_wijzigen",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "daglimiet_identificatiecode_wijzigen",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "identificatiecodes_beheren",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "profiel_beheren",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "veiligheid",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "ondertekenen_aanvraag",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "status_aanvraag",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "product_aanvragen",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "overzicht_producten",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "classic_customerview",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "paslimiet_wijzigen",
+          "stepupRequired": true
+        }
+      },
+      {
+        "userFunction": {
+          "name": "zakelijke_gegevens_wijzigen",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "loyaltyoverzicht",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "ed2_software",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "bbforms_boekhoudkoppeling",
+          "stepupRequired": false
+        }
+      },
+      {
+        "userFunction": {
+          "name": "manage_companylogo",
+          "stepupRequired": true
+        }
+      }
+    ]
+  }
+}
